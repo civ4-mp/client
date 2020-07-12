@@ -1,0 +1,56 @@
+# Redirecting the multiplayer of Civilization 4 to a community hosted server.
+# Universal entries
+148.251.130.188	motd.gamespy.com
+148.251.130.188	gmtest.master.gamespy.com
+148.251.130.188	peerchat.gamespy.com
+148.251.130.188	gpcm.gamespy.com
+148.251.130.188	gpsp.gamespy.com
+148.251.130.188	gamestats.gamespy.com
+148.251.130.188	master.gamespy.com
+# This entry should not be needed for the game to function
+# 148.251.130.188	gamespy.com
+148.251.130.188	natneg1.gamespy.com
+148.251.130.188	natneg2.gamespy.com
+148.251.130.188	natneg3.gamespy.com
+
+# Vanilla specific entries
+148.251.130.188	civ4.available.gamespy.com
+148.251.130.188	civ4.ms18.gamespy.com
+148.251.130.188	civ4.master.gamespy.com
+148.251.130.188	civ4.natneg1.gamespy.com
+148.251.130.188	civ4.natneg2.gamespy.com
+148.251.130.188	civ4.natneg3.gamespy.com
+
+# BTS specific entries
+148.251.130.188	civ4bts.available.gamespy.com
+148.251.130.188	civ4bts.ms7.gamespy.com
+148.251.130.188	civ4bts.master.gamespy.com
+148.251.130.188	civ4bts.natneg1.gamespy.com
+148.251.130.188	civ4bts.natneg2.gamespy.com
+148.251.130.188	civ4bts.natneg3.gamespy.com
+
+# Additional entries for japan
+148.251.130.188	civ4btsjp.available.gamespy.com
+148.251.130.188	civ4btsjp.ms5.gamespy.com
+148.251.130.188	civ4btsjp.master.gamespy.com
+148.251.130.188	civ4btsjp.natneg1.gamespy.com
+148.251.130.188	civ4btsjp.natneg2.gamespy.com
+148.251.130.188	civ4btsjp.natneg3.gamespy.com
+
+#civ4 col
+148.251.130.188	civ4colpc.available.gamespy.com
+148.251.130.188	civ4colpc.ms11.gamespy.com
+148.251.130.188	civ4colpc.master.gamespy.com
+148.251.130.188	civ4colpc.natneg1.gamespy.com
+148.251.130.188	civ4colpc.natneg2.gamespy.com
+148.251.130.188	civ4colpc.natneg3.gamespy.com
+
+#civ4 col japan version
+148.251.130.188	civ4coljp.available.gamespy.com
+148.251.130.188	civ4colpc.ms11.gamespy.com
+148.251.130.188	civ4coljp.master.gamespy.com
+148.251.130.188	civ4coljp.natneg1.gamespy.com
+148.251.130.188	civ4coljp.natneg2.gamespy.com
+148.251.130.188	civ4coljp.natneg3.gamespy.com
+
+#End of file
